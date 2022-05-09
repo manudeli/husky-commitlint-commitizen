@@ -22,6 +22,7 @@ const typeEnums = {
       value: type,
       name: `${type}:     ${' '.repeat(maxSpaceLength - type.length)}` + description,
     })),
+    allowBreakingChanges: ['feat', 'fix', 'remove']
   }
   
   module.exports = commitizenConfig

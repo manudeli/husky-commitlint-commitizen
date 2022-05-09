@@ -104,7 +104,7 @@ npx --no-install commitlint --edit "$1"
 }
 ```
 
-### b. root에 `cz-config.js`를 추가 후 원하는 typeEnum으로 나오도록 설정
+### b. root에 `.cz-config.js`를 추가 후 원하는 typeEnum으로 나오도록 설정
 ```javascript
 const typeEnums = {
   feat: '새로운 기능 추가 시',
@@ -134,6 +134,9 @@ const commitizenConfig = {
 
 module.exports = commitizenConfig
 ```
+
+### c. 자세한 `.cz-config.js` 설정하기
+[🔗 설정하기 참고 링크](https://github.com/leoforfree/cz-customizable#options)
 
 
 ## 3. commitlint - commitizen 룰 동기화
