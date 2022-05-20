@@ -164,3 +164,6 @@ module.exports = Configuration
 - 원하는 브랜치에 푸시받은 경우 github-actions에서 semantic-release가 실행
 - semantic-release가 semantic-versioning에 따라 major/minor/patch중 어떤 버전을 올려야 할지 commit 메시지(conventional-commit의 형식)를 보고 자동으로 태그를 푸시해줍니다.
 - 이 버전 태그를 보고 CI - CD를 진행하게 합니다.
+
+## Semantic Release 예시 레포
+- 🔗[manudeli/semantic-release-test](https://github.com/manudeli/semantic-release-test/releases)
