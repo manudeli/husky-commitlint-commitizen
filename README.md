@@ -1,3 +1,6 @@
+# 📼 Conventional Commit 발표 영상 (아래를 클릭하세요)
+[![Conventional Commit 매쉬업 발표](http://img.youtube.com/vi/C6_l0xe8SIg/0.jpg)](https://youtu.be/C6_l0xe8SIg)
+
 # Conventional Commit 강제하기
 ## [🔗 Conventional Commit](https://www.conventionalcommits.org/en/v1.0.0/)이란?
 ```
